@@ -1,6 +1,6 @@
 void main(List<String> arguments) {
   Calculator calculator = Calculator();
-  print(calculator.calculate(23, 0, "/"));
+  print(calculator.calculate(23, 27, "+"));
   // calculator.calculate(34, 30, "-");
 }
 
